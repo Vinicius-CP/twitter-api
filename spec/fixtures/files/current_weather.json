@@ -1,0 +1,11 @@
+{
+  "weather": [
+    {
+      "description": "algumas nuvens"
+    }
+  ],
+  "main": {
+    "temp": 28.39
+  },
+  "name": "Florianópolis"
+}
